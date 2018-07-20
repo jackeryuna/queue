@@ -5,9 +5,9 @@
  * Date: 2018/07/19
  * Time: 19:23
  */
-namespace Octopus\queue\base;
+namespace jackeryuna\queue\base;
 
-use Octopus\queue\base\Container;
+use jackeryuna\queue\base\Container;
 
 class Object
 {

@@ -6,10 +6,10 @@
  * Time: 08:57
  */
 
-namespace Octopus\queue\base;
+namespace jackeryuna\queue\base;
 
 use SuperClosure\Serializer;
-use Octopus\queue\base\Object;
+use jackeryuna\queue\base\Object;
 
 abstract class Job
 {

@@ -6,7 +6,7 @@
  * Date: 2018/07/20
  * Time: 08:57
  */
-namespace Octopus\queue\helper;
+namespace jackeryuna\queue\helper;
 
 
 class ArrayHelper

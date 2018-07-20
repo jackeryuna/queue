@@ -7,12 +7,12 @@
  * 修改日期：2018.07.19
  */
 
-namespace Octopus\queue\queues;
+namespace jackeryuna\queue\queues;
 
 use Octopus\RedisEx;
-use Octopus\queue\base\Queue;
-use Octopus\queue\helper\ArrayHelper;
-use Octopus\queue\base\Object;
+use jackeryuna\queue\base\Queue;
+use jackeryuna\queue\helper\ArrayHelper;
+use jackeryuna\queue\base\Object;
 
 class RedisQueue extends Queue
 {
@@ -23,6 +23,8 @@ class RedisQueue extends Queue
 
     public function __construct( $redisConf )
     {
+        echo 1111;
+        exit;
         $this->init($redisConf);
     }
 

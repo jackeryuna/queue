@@ -6,9 +6,9 @@
  * Time: 08:57
  */
 
-namespace Octopus\queue\helper;
+namespace jackeryuna\queue\helper;
 
-use Octopus\queue\base\JobHandler;
+use jackeryuna\queue\base\JobHandler;
 
 class QueueClosure extends JobHandler
 {

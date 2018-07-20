@@ -6,7 +6,7 @@
  * Time: 08:57
  */
 
-namespace Octopus\queue\base;
+namespace jackeryuna\queue\base;
 
 
 abstract class JobHandler

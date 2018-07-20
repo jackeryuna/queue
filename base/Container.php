@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace Octopus\queue\base;
+namespace jackeryuna\queue\base;
 
 use ReflectionClass;
 

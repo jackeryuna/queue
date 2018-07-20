@@ -5,10 +5,10 @@
  * Date: 2018/07/20
  * Time: 08:57
  */
-namespace Octopus\queue\jobs;
+namespace jackeryuna\queue\jobs;
 
-use Octopus\queue\base\Job;
-use Octopus\queue\helper\ArrayHelper;
+use jackeryuna\queue\base\Job;
+use jackeryuna\queue\helper\ArrayHelper;
 
 class RedisJob extends Job
 {

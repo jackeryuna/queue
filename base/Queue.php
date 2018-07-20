@@ -6,7 +6,7 @@
  * Time: 19:23
  */
 
-namespace Octopus\queue\base;
+namespace jackeryuna\queue\base;
 
 use SuperClosure\Serializer;
 
